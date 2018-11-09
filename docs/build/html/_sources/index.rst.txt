@@ -23,6 +23,7 @@ Guide
    
    license
    help
+   introduction
 
 
 Indices and tables
